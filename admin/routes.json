@@ -1,0 +1,6 @@
+{
+  "admin.app.stibo-integration": {
+    "component": "adminStiboIntegration",
+    "path": "/admin/app/stibo-integration"
+  }
+}

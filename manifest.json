@@ -1,0 +1,27 @@
+{
+  "vendor": "stibo",
+  "name": "integration-app",
+  "version": "0.0.1",
+  "title": "STIBO SYSTEMS INTEGRATION",
+  "description": "Stibo Systems Integration App",
+  "builders": {
+    "react": "3.x",
+    "messages": "1.x",
+    "admin": "0.x"
+  },
+  "dependencies": {
+    "vtex.styleguide": "9.x"
+  },
+  "billingOptions": {
+    "support": {
+      "url": "https://www.stibosystems.com/"
+    },
+    "free": true,
+    "type": "free",
+    "availableCountries": [
+      "*"
+    ]
+  },
+  "policies": [],
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}
