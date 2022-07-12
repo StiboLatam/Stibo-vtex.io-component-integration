@@ -1,195 +1,128 @@
-### VTEX App Store Terms and Conditions of Use
+﻿![](Aspose.Words.69c96f3e-168c-4657-a9c7-1be44d47d2f4.001.png)
 
-#### Updated on September 9, 2020
+STEP SaaS Terms & Conditions 
 
-These VTEX App Store Terms and Conditions of Use regulate the use of the subscription and distribution service for applications developed on VTEX IO, offered by COMPANHIA BRASILEIRA DE TECNOLOGIA PARA E-COMMERCE S.A., with headquarters in the city of São Paulo, State of São Paulo, at Avenida Faria Lima, 4440, 10th floor, Itaim Bibi, CEP 04538-132, enrolled with the CNPJ/ME under No. 05.314.972/0001-74, hereinafter referred to as “VTEX”, to its clients (“VTEX Clients”), and their use is conditioned to the full acceptance of the terms and conditions of use transcribed below, as well as of the respective Master Services Agreement (“MSA”) executed by and between VTEX and VTEX Client.
+**STEP SaaS Terms and Conditions ![](Aspose.Words.69c96f3e-168c-4657-a9c7-1be44d47d2f4.002.png)**
 
-In order to access, use or install any APP made available on VTEX App Store, User (as defined hereinbelow) expressly declares, by their free and spontaneous will, that they are aware of and accept all provisions contained in these Terms.
+![](Aspose.Words.69c96f3e-168c-4657-a9c7-1be44d47d2f4.003.png) **Definitions**  
 
-User declares to be aware of the APP Terms of Use they intend to access, use or install. VTEX is not liable for Third Parties’ Applications.
+**“Affiliate”** of a party means any legal entity in which a party, directly or indirectly, holds more than fifty percent (50%) of the shares or voting rights or controls or is under common control with that legal entity.  
 
-Should User be a minor or declared incapable in any respects, they will need the permission from their legal guardians, who shall also adhere to these Terms.
+` `**“Agreement”** means these General Terms and Conditions and any Order Form referencing these General Terms and Conditions, and any other schedules, supplements, statements of work, exhibits or appendices thereto, whether attached or incorporated by reference.  
 
-Without prejudice of the provisions of these Terms, User shall comply with all other agreements, terms and conditions regulating their relationship with VTEX, including, without limitation, the Master Services Agreement (as defined hereinbelow) available on [https://vtex.com/us-en/agreements/](https://vtex.com/us-en/agreements/) and the Term of Use of the APP they intend to access, use or install.
+**“Client”** means the entity or individual that has consented to this Agreement by execution of an Order Form that references these General Terms and Conditions or by any other legally binding method of acceptance of this Agreement.  
 
-### 1. GENERAL DEFINITIONS
+**“Client Data”** means any proprietary content, materials, data and information that Client or its Named Users enter into the Service.  
 
-1.1. In these Terms, unless otherwise expressly stated or required by the context: (a) reference to the singular includes a reference to the plural and vice-versa and reference to the masculine gender includes reference to the feminine gender and vice-versa; (b) reference to a provision of law is also a reference to such provision as amended or restated; (c) the terms “including”, “include” or “includes” shall be considered to be followed by the phrase “without limitation” or “but not limited to”; and (d) the headings and titles of the provisions of these Terms are merely for reference purposes and shall not affect their interpretation.
+**“Documentation”** means Stibo Systems’ then-current technical and functional documentation for the Service which is made available to Client with the Service, including, but not limited to, configuration workbooks or release notes, as applicable.  **“Confidential Information”** means all information of a confidential or proprietary nature disclosed whether in writing, orally or by another means and whether directly or indirectly by a party to the other party  whether before or after the date of this Agreement including in respect of the disclosing party: (a) details of suppliers, agents and distributors and their terms of business, the prices charged to and terms of business with clients, marketing plans and sales forecasts, financial information, results and forecasts, business plans; (b) secrets of the design of products; (c) business methods; (d) information provided by any person in circumstances which imply that the information is to be kept confidential by the recipient or where the provider of the information has expressly imposed upon the recipient a duty to keep such information confidential; (e) information made available to the receiving party which is either marked as confidential or its confidential nature is expressly drawn to the attention of the receiving party.** 
 
-1.2. The following words and expressions, when used in these Terms, shall have the following meanings:
+**“Hosting Environment”** means the IT infrastructure consisting of computing and networking services made available through a managed service provider as a subcontractor of Stibo Systems which is used to provide the Services.** 
 
-“APP”: means a web application developed by VTEX or third parties and made available on [VTEX App Store](apps.vtex.com) to its Clients to be installed on a free-of-charge basis or upon the payment of a monthly subscription or payment for use, as presented in the installation of the APP or in the APP Terms of Use, as an extension tool to the VTEX Platform.
+**“Named User”** Means individually named employees of Client who have been registered by name.  For the avoidance of doubt, the Named User is not licensed on a “concurrent user” or “seat” basis, but only for use by specific Named User. A Named User can be removed and replaced by a new Named User. 
 
-“VTEX App Store” means an online environment repository of web applications developed by VTEX or third parties, accessed through the link (apps.vtex.com).
+**“Order Form”** means all written order forms or other ordering documentation (including, if Client is ordering the Service online, a registration Webpage or Website) entered into by Stibo Systems and Client containing the pricing, subscription term and other specific terms and conditions applicable to the Service.  
 
-“Personal Data”: means any User’s data that relates to an identified or identifiable natural person, to the extent that such information is protected as personal data under applicable Data Protection Laws.
+**“Order Form Start Date” and “Order Form End Date”** mean the dates for the start of the Service and similarly the last date of the Service if not prolonged. 
 
-“Data Protection Laws”: means all laws and regulations, including binding regulations of Brazil, United States of America, the European Union, the European Economic Area and their member states, Switzerland and the United Kingdom, applicable to the Processing of Personal Data in the ambit of these Terms.
+**“Professional Services”** means configuration, implementation, training and other similar services related to the Service.  “**Stibo Systems**” means the Stibo Systems local entity identified by the Order Form as providing the Service to Client.  **“Service”** or “**Software**” or “**STEP**” means the proprietary Stibo Systems software called STEP delivered as a SaaS-service and as described in the Order Form.  
 
-Master Services Agreement” means the Agreement executed by and between Client, represented by User, and VTEX.
+**“Statement of Work” or “SOW”** shall mean a detailed written and agreed description of Professional Services to be delivered to Client. 
 
-“Processing”: means any operation or set of operations involving Personal Data, whether or not by automatic means, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission and dissemination.
+![](Aspose.Words.69c96f3e-168c-4657-a9c7-1be44d47d2f4.004.png) **Usage** 
 
-“VTEX Platform” means the VTEX-owned online solutions software for e-commerce for companies promoting and selling products and/or services online.
+1. Stibo Systems shall make the Service available to Client in accordance with and during the term stated in the Order Form to permit Named Users to remotely access and use the Service in accordance with the metrics listed in an Order Form and the Documentation.  
+1. When using the Service, Client shall not (a) copy,  disassemble, decompile, reverse-engineer any parts of the Service; (b) modify the Service outside public application program interfaces (API’s) or non-configurable parts of the Service (c) transmit any content, data or information that is unlawful, malicious, tortious, libelous, invasive of another’s privacy right or right of publicity; (d) infringe the intellectual property rights of any entity or person; (e) interfere with or disrupt the Stibo Systems Services and Hosting Environment; (f) use the Service in the operation of a service bureau, outsourcing or time-sharing service in competition with Stibo Systems; (g) circumvent or disclose the user authentication or security of the Service or any host, network, or account related thereto; (h) access the Service for the purpose of building a competitive product or service or copying its features or user interface; or (i) make any use of the Service that violates any applicable local, state, national, international or foreign law or regulation.  
+1. Subject to confidentiality obligations, Client grants to Stibo Systems the nonexclusive right to use Client Data for the sole purpose of and only to the extent necessary for Stibo Systems to provide the Service.  
 
-“Services” means the services made available by the APPs with the purpose of adding new functionalities to the VTEX Platform.
+![](Aspose.Words.69c96f3e-168c-4657-a9c7-1be44d47d2f4.005.png) Stibo Systems, proprietary information                                                                                                                       Page **1** of **7** 
 
-“Terms”: means the VTEX App Store Terms and Conditions of Use that regulate the relationship between VTEX and User.
+4. Client shall be responsible for entering its Client Data into the Service and Client shall be responsible for the content of the Client Data. Client agrees that it has collected and shall maintain and handle all Client Data in compliance with all applicable laws, including data privacy and protection laws, rules and regulations. Client is solely responsible for determining the suitability of the Service for Client's business use of the Service.  
+4. HIGH RISK USE.  Client shall not use the Services for any application where a failure of those Services could result in death, serious injury, environmental damage or property damage.  Examples of prohibited uses include medical life  support  devices,  water  treatment  facilities,  nuclear  facilities,  weapons  systems,  chemical  facilities,  mass transportation, aviation and flammable environments.  Client acknowledges that Stibo Systems makes no assurances that the Services are suitable for any high-risk use. 
+4. Stibo Systems shall be entitled to monitor Client’s number of Named Users (or other applicable usage metric stated in the Order Form) regarding usage of the Service to ensure Client’s compliance with this Agreement and, subject to confidentiality as laid out in this Agreement, Stibo Systems may utilize the information concerning Client’s use of the Service to improve Stibo Systems products and services and to provide Client with reports on its use of the Service.  
+4. Stibo Systems may change or modify the Service at any time. Stibo Systems shall not materially diminish the functionality of the Service during the term of the Order Form.  
+4. Client and Stibo Systems may agree to utilize third-party software and services during the term of the agreement. The terms and conditions of the software or service including warranty and liability provisions are set forth in read me files or similar and are given by the external licensor(s). 
+4. Terms  and  conditions  for  the  Hosting  Environment  may  change  from  time  to  time.  Changes  to  the  Hosting Environment may not diminish the functionality, performance or security of the hosting. Changes will be announced in  advance  and  applied  as  a  change  management  procedure  via  the  Stibo  Service  Portal (https://service.stibosystems.com).  
+4. To enable Stibo Systems to provide the Services, Client grants Stibo Systems the right to use, process and transmit Client’s content. If Client’s use of the Service includes third-party programs, Client acknowledges that Stibo Systems may allow providers of those third-party programs to access the Services, including Client’s content and Client’s applications, as required for the interoperation.  Stibo Systems will not be responsible for any use, disclosure, modification or deletion of Client’s content or Client’s applications resulting from any such access by third-party program providers or for the interoperability of such third-party programs with the Services. 
 
-“APP Terms of Use” means the Terms and Conditions of Use of the application chosen by User. The APP Terms of Use shall be made available by the Application Provider. These Terms regulate the relationship between the Application Provider and User. VTEX is not liable for Third Parties’ Applications.
+![](Aspose.Words.69c96f3e-168c-4657-a9c7-1be44d47d2f4.006.png) **Intellectual Property Rights** 
 
-“User”: means a VTEX Client signatory of the Master Services Agreement, which will navigate through the VTEX App Store, authorized by Client, in their name, or as representative of a legal entity, which will carry out the installation of applications and the registration of information such as, but not limited to, store logo, description, country, segment, type of store, commission, account, name, e-mail and telephone for sharing with other APPs users.
+1. Stibo Systems owns all right, title and interest in any and all copyrights, trademark rights, patent rights and other intellectual property or other rights in the Service, and any improvements, design contributions or derivative works thereto. Except as otherwise agreed in writing, Client is granted the nonexclusive right to use the Service subject to the terms of this Agreement. Except for the limited rights expressly granted herein, this Agreement does not transfer from Stibo Systems any proprietary right or interest in the Service.  
+1. Stibo Systems may provide Client with access to third-party content. The owner or licensor of the third-party content retains all intellectual property right ownership to the content and grants Client a limited license to use the content. The license is subject to the applicable terms as specified by the owner or licensor and as notified to Client. Any third- party content provided by Client is considered Client Data and it is Clients responsibility to ensure correct licensing.  
+1. Client Data is the sole and confidential property of Client and no intellectual property rights are transferred as a consequence of this Agreement. Client grants a limited license to process the Client Data for the sole purpose of delivering the Services. 
 
-“Developer” means the company or individual responsible for creating the APP, which may be created by VTEX or by a third party, which holds the rights to the software marketed and distributed on the VTEX App Store.
+![](Aspose.Words.69c96f3e-168c-4657-a9c7-1be44d47d2f4.007.png) **Additional Services** 
 
-“VTEX IO” is VTEX’s own development platform, on which it is possible to create new applications by VTEX or by third parties.
+1. The parties acknowledge that there may be numerous actions required to configure the Services for Client’s specific use. This Agreement does not include services other than Professional Services purchased in an Order Form or a separate SOW.  
+1. Pursuant to a SOW, Stibo Systems will provide Professional Services. Client will provide information and assistance for the purpose of rendering the Professional Services, such as access on an as-needed basis to personnel, data processing, hardware and software systems. Client shall obtain all necessary consents for Stibo Systems personnel to use or access software and equipment necessary for Stibo Systems to provide the Professional Services. Upon final payment of prices under the SOW, Client shall have a nontransferable, non-exclusive, paid-up right and license 
 
-“Application Provider” is the third party responsible for all development, updating and application services made available at VTEX App Store. It is exclusively responsible for the APP developed code.
+to use the work product created pursuant to the SOW for professional services and subject to any restrictions of any third-party materials embodied in the work product. 
 
-“Third Party’s Application”: means a web application developed by a third party, either an individual or a legal entity, and made available on [VTEX App Store](apps.vtex.com) by an Application Provider. The Third Party’s Application is made available to its Clients to be installed on a free-of-charge basis or upon the payment of a monthly subscription or payment for use, as presented in the installation of the APP or in the APP Terms of Use, as an extension tool to the VTEX Platform.
+3. If Client elects to have any services provided by a third party, Stibo Systems shall have no liability for any defect or failure of the Service caused by such third-party services, and Client shall not be entitled to any reduction in prices for the Service. Stibo Systems may deny access to the Service to any third-party service provider which Stibo Systems determines in its reasonable discretion poses a security or confidentiality risk to Stibo Systems, data or intellectual property. 
 
-“VTEX Application”: means a web application developed by VTEX and made available on [VTEX App Store](apps.vtex.com) to its Clients, to be installed on a free-of-charge basis or upon the payment of a monthly subscription or payment for use, as presented in the installation of the APP or in the APP Terms of Use, as an extension tool to the VTEX Platform.
+![](Aspose.Words.69c96f3e-168c-4657-a9c7-1be44d47d2f4.008.png) **Prices and Terms of Payment** 
 
-### 2. PURPOSE
+1. Client shall pay to Stibo Systems the prices for the Services according to the invoicing cycle as set out in an Order Form.  
+1. Client shall pay to Stibo Systems the fees for the Professional Services as specified in an Order Form, Statement of Work or elsewhere in this Agreement. Any services performed by Stibo Systems at Client’s request that are not otherwise specified on a mutually executed Order Form, Statement of Work or elsewhere in this Agreement, will be billed to Client, and Client shall pay for same, at Stibo Systems’ then-current time-and materials rates. 
+1. Client may add additional Named Users or other applicable usage metrics during the term of the Order Form by executing an addendum or additional schedule to such Order Form, as applicable, which shall then become an integral part of the amended Order Form.  
+1. Client is responsible for monitoring its use of the Service. At the end of each calendar year, Client shall promptly report to Stibo Systems any actual use in excess of the number of Named Users (or other applicable usage metric authorized in the Order Form). Stibo Systems shall invoice and Client shall pay for any usage in excess of the usage metrics set forth in the applicable Order Form and Client agrees to execute an addendum to such Order Form to reflect any excess. Such price shall accrue from the date the excess use began. For the avoidance of doubt, Client shall not be entitled to claim any reduction of the prices payable under the Order Form or reduce the Named Users (or other applicable usage metric) during the term of an Order Form or renewal.  
+1. All purchases of subscriptions are non-cancelable and all prices are non-refundable. Client shall have no right to withhold or reduce prices under this Agreement or set off any amount against prices owed for alleged defects in the Service. 
+1. All undisputed prices not paid when due shall accrue interest at the maximum rate allowed under applicable law, and may result in suspension of Client’s ability to access the Service until payment is made.  
+1. All prices, costs, fees and other charges payable under the Agreement shall not include any taxes now or hereafter levied. Client shall be responsible for all of such taxes. If any such tax or duty has to be withheld or deducted from any payment under this Agreement, Client will increase payment under this Agreement by such amount and shall ensure that after such withholding or deduction Stibo Systems shall have received an amount equal to the payment otherwise required. Client shall communicate to Stibo Systems its taxation identification number(s) attributed by (i) the country where Client has established its business, and/or (ii) any other country where Client has established a fixed establishment, to which the Services under this Agreement are provided. Client shall promptly pay or reimburse Stibo Systems for all reasonable and documented costs and damages related to any liability incurred by Stibo Systems as a result of Client’s non-compliance or delay with its responsibilities herein.  
+1. Upon expiry of Order Form End Date prices for Services are subject to annual index regulation according to the development in the Consumer Price Index in the country where the contracting Stibo Systems entity is residing. 
+1. Client shall reimburse Stibo Systems for all reasonable travel and related administration and expenses incurred by Stibo Systems in performing any support or Professional Services for Client under this Agreement.  
 
-2.1. The purpose of these Terms is to regulate the use of VTEX App Store by User.
+![](Aspose.Words.69c96f3e-168c-4657-a9c7-1be44d47d2f4.009.png) **Term, Termination and Termination Support**
 
-2.2. VTEX Platform makes available [VTEX APP Store](apps.vtex.com), on which several APPs that may be installed and accessed by Users are available. Any User wishing to install and access any APP must create a duly registered VTEX account, by making available their Personal Data and/or data of the legal entities that User represents for registration purposes.
+1. The term of this Agreement begins on the date of execution of the Order Form and shall expire when there are no active Order Forms. The term of an Order Form begins on the date set forth in the applicable Order Form and shall continue in effect as described in the Order Form. Termination of individual Order Forms shall leave other Order Forms unaffected. 
 
-2.3. User declares, under the penalties of law, to be aware on the contracting of the Services, as well as all information provided to the APP is true, being fully and exclusively liable for any and all information supplied, as well as for all APP contracting it carries out on the VTEX Platform in their name, or in the name of any company they represent. VTEX shall not be liable for any damage caused by a unauthorized User.
+6.1.1  Stibo Systems will need a ramp-up time of up to two weeks before the Services are accessible. If the Order Form is executed less than two weeks before the applicable start date set forth in an Order Form there may be a delay. Client waives any claim for delays in this respect. 
 
-2.4. User acknowledges, moreover, that these Terms shall be observed and faithfully complied with under penalty of cancellation, blocking of use of VTEX App Store and APPs and other applicable measures, regardless of previous notice. VTEX reserves the right to take all measures set forth herein even in cases of suspicion or threat of violation of the Terms.
+2. Notwithstanding the foregoing, a party may terminate an Order Form upon thirty (30) days written notice to the other party of such other party’s material breach of any provision of this Agreement unless the breaching party has cured such breach during such thirty (30) day period.  
+2. In case of non-payment of undisputed invoices, Stibo Systems will issue reminders with no less than ten (10) business days’ notice. If two notices have passed, Stibo Systems may suspend access to the Services.  
+2. Stibo Systems may, in its reasonable determination, deactivate Client’s user name(s) and password(s) and/or temporarily suspend access to the Service or a portion thereof, if and to the extent Stibo Systems can substantiate that the continued use of the Service may result in harm to the Service (including the security of the systems used to provide the Service) or other Stibo Systems Clients, or the rights of third parties, upon prior written notice to Client as the circumstances permit. 
+2. Upon the effective date of termination, Client’s access to the Service will be terminated. Client shall have the ability to access its Client Data at any time during the subscription term set forth in the applicable Order Form, unless earlier terminated. Client may export and retrieve its Client Data for a period of forty-five (45) days after the effective date of termination. Extraction of Client Data is subject to technical limitations caused by factors such as (i) the availability of self-service extraction tools compatible with the Service, (ii) the size of Client’s instance of the Service; and (iii) the frequency and/or timing of the export and retrieval.  
+2. Stibo Systems will delete all Client Data after the effective date of termination plus forty-five (45) days, unless instructed to do so earlier by the Client. 
+2. Articles meant to continue after termination of this Agreement shall survive the termination.  
 
-2.5. User is forbidden to remove, hide or change any information, news, notices, logos, trademarks or any materials protected by the legislation in force that are displayed on any APP.
+![](Aspose.Words.69c96f3e-168c-4657-a9c7-1be44d47d2f4.010.png) **Warranties** 
 
-### 3. PERSONAL DATA PROTECTION
+1. Stibo Systems warrants that the Service will substantially conform to the specifications stated in the Documentation. The foregoing warranty shall not apply to the extent: (i) the Service is not being used in accordance with this Agreement and/or any Documentation; or (ii) any non-conformity is caused by third party products, content or service being accessed through the Service that are identified as third-party products, content or service; or (iii) the Service being used was provided for no price or is a trial license of the Service. Subject to limitations of liability sections, Client's sole and exclusive remedy, and Stibo Systems’ entire liability for breach of the limited warranty, shall be correction of the warranted non-conformity or, if Stibo Systems fails to correct the warranted non-conformity after using reasonable commercial efforts, Stibo Systems may terminate access to the non-conforming Service and refund the subscription prices paid by Client for such Service (as identified in the applicable Order Form) for the remainder of the subscription term (starting on the date Client reported the non-conformity).  
+1. Stibo Systems warrants that (i) it will perform any Professional Services in a workmanlike and professional manner consistent with leading practitioners within Stibo Systems’ industry, and (ii) the Professional Services will conform in all material respects with the descriptions set forth in the applicable Statement of Work. If the Professional Services do  not  materially  conform  to  the  determined  specifications,  then  Client  shall  provide  a  written  statement  of nonconformity to Stibo Systems, identifying in detail the basis for the nonconformity, within a 5-business -day period. Stibo Systems will use reasonable commercial efforts to correct the identified nonconformity and redeliver such Professional Services within a period of 15 days (or such other period of time as mutually agreed upon in writing). The testing and notice of acceptance or rejection procedure will be repeated up to 5 times as necessary, using the same timeframes as described above.  If Stibo Systems fails to re-perform such Professional Services as warranted, Client shall be entitled to recover the prices paid to Stibo Systems for such deficient Professional Services.  
+1. Except as expressly provided in this Agreement, neither Stibo Systems nor its vendors make any representations, warranties, terms, conditions or statements, express or implied, statutory or otherwise regarding any matter, including the merchantability, suitability, originality, or fitness for a particular use or purpose, non-infringement or results to be derived from the use of or integration with the Service, or any Professional Services, software, hardware or other materials provided under this Agreement, or that the operation of any such Service, software, hardware or other material will be secure, uninterrupted or error free.  
+1. Both parties represent and warrant the any acts or omissions of a third party or Affiliate who accesses or uses the Services (whether or not such access or use is authorized) on behalf of one of the parties that would constitute a breach or failure of a condition if committed by either Stibo Systems or the Client - shall be deemed a breach of this Agreement by the party. 
 
-**User declares that they have read the Terms of Use of the APP that they wish to access, use or install and has ensured that the developer and Application Provider of the APP chosen by the User follows the rules of Personal Data Protection. VTEX is not responsible for Third Party Applications.**
+![](Aspose.Words.69c96f3e-168c-4657-a9c7-1be44d47d2f4.011.png) **Third-Party Claims and Indemnification**
 
-3.1. VTEX shall perform the Processing of Personal Data as made available on VTEX App Store in accordance with the applicable Data Protection Laws. All VTEX collaborators and employees with access to Personal Data are deemed to be bound in writing to keep the confidentiality of such Personal Data.
+1. At its own expense, Stibo Systems shall indemnify, defend and hold Client, their Affiliates, and each of their respective employees, officers, directors and representatives, harmless from and against any and all claims, losses, damages, liabilities, judgments, penalties, fines, costs and expenses (including reasonable attorneys’ fees), arising out of or in connection with any claim that Client’s use of the Service, in accordance with the terms and conditions of this Agreement, constitutes an infringement or misappropriation of a patent claim(s), copyright, trade secret, or other intellectual property or proprietary rights. Stibo Systems will pay damages finally awarded against Client (or the amount of any settlement Stibo Systems enters into) with respect to such claims, and will pay reasonable attorney’s fees in connection with such defense. This obligation of Stibo Systems shall not apply if the alleged infringement or misappropriation results from use of the Service in conjunction with any other software or service or to free (no fee) or trial licenses of the Service other than in furtherance of Client’s use of the Service as contemplated in this Agreement.  
+2. In the event a third-party claim is made or in Stibo Systems’ reasonable opinion is likely to be made, Stibo Systems may, at its sole option and expense: (i) procure for Client the right to continue using the Service under the terms of this Agreement; or (ii) replace or modify the Service to be non-infringing without material decrease in functionality. If Stibo Systems provides written notice to Client that the foregoing options are not reasonably available, Stibo Systems or Client may terminate this Agreement and Stibo Systems shall refund to Client all prepaid prices for the remainder of its term after the date of termination.  
+2. Client agrees to indemnify, defend and hold Stibo Systems, our Affiliates, and each of our and their respective employees, officers, directors and representatives, harmless from and against any and all claims, losses, damages, liabilities, judgments, penalties, fines, costs and expenses (including reasonable attorneys’ fees), arising out of or in connection with any claim arising out of (a) the Client Data, including any personal injury, death or property damage (including any damage caused by malicious or harmful code included in data); (b) any sales, goods and services, use, excise, import, export, property, value added or other taxes or duties assessed or imposed on Stibo Systems in connection with or as a result of the storage, shipping or other actions taken with respect to the Services or taken by Stibo Systems with respect to the Client Data; (c) any legal or regulatory violation, arising under the laws or regulations of any country (including without limitation privacy legislation), related to import or export of the Client Data. Client will pay damages finally awarded against Stibo Systems (or the amount of any settlement Client enters) with respect to such claims and will pay reasonable attorneys’ fees in connection with such defense.  
+2. The obligations in this section are conditioned on (a) the party against whom a third-party claim is brought timely notifying the other party in writing of any such claim, provided however that a party’s failure to provide or delay in providing such notice shall not relieve a party of its obligations except to the extent such failure or delay materially prejudices the defense; (b) the party who is obligated hereunder to defend a claim having the right to fully control the defense of such claim; and (c) the party against whom a third-party claim is brought reasonably cooperating in the defense of such claim. The party against whom a third-party claim is brought may appear, at its own expense, through counsel reasonably acceptable to the party obligated to defend claims hereunder. Neither party shall undertake any action in response to any infringement or misappropriation, or alleged infringement or misappropriation that is prejudicial to the other party’s rights.  
 
-3.2. User declares that they have read, are aware of and accepts the provisions of VTEX Privacy Policy, which is an integral part of these Terms, as set forth in full in the following link: [https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy](https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy).
-
-3.3 User agrees that the routines of access to the APP may be recorded and monitored by VTEX development team and that all information and data supplied may be used exclusively with the purpose of providing performance improvements, functionality adjustments and corrections and improvement of the system as a whole. Such information shall not be shared or made available to any person or company other than the VTEX group, such as, without limitation, partners, service providers, agencies, consultants or other Users.
-
-3.4. User agrees that, when applicable, the APP will be considered as a Data Operator, making available infrastructure only. Under no circumstances shall the APP made available by VTEX be considered as the Controller of Personal Data for purposes of the Personal Data Protection Laws. The provisions of the MSA shall apply.
-
-### 4. SERVICE
-
-4.1. User declares to be aware of the APP Terms of Use they intend to access, use or install. VTEX is not liable for Third Parties’ Applications.
-
-4.2. For using the Services available in any APP, User shall certify that it has a compatible software (last recommended and/or necessary version) and access to Internet, since the functioning of the APP and/or the performance of the Service may be affected by such factors.
-
-4.3. User understands and accepts that no guarantee shall be offered by VTEX in connection with the functioning of the Services of any APP made available on VTEX App Store and with the ongoing availability on the part of VTEX.
-
-4.4. The APPs may be made available without charge on VTEX App Store to its Users, or the Services may be charged at any time, at VTEX’s exclusive discretion, by means of subscription plans or commercial models to be presented to User at the time of contracting of the Services offered by the APP. In the event of change of prices and conditions in the contracted plan, User will be informed thereof in advance.
-
-4.4.1. The APPs may have their plans and charges changed at any time without respecting a specific index, by giving a previous notice to the Users affected by the change with at least thirty (30) days in advance.
-
-4.5. VTEX shall not be liable for issues involving subscription in third parties’ services that may be required for the utilization of any APP.
-
-### 5. SUBSCRIPTION
-
-5.1. User agrees and accepts that some APPs may allow User to purchase access to content or Services by subscription (“Paid Subscriptions”). Paid Subscriptions are automatically renewed until the APP is uninstalled.
-
-5.1.1. The Application Provider has the right to cancel the Paid Subscription of User, upon the occurrence of any failure in the method payment in the event of any subscription renewal. Certain Paid Subscriptions can offer a free evaluation before being charged. If User resolves to cancel the Paid Subscription before the beginning of the charging, they shall uninstall the APP with at least 24 hours in advance to the end of the evaluation period offered.
-
-### 6. USER’S OBLIGATIONS
-
-6.1. When using any APP, User expressly and unequivocally declares that it is in agreement with these Terms and the APP Terms of Use, and undertakes:
-
-a.  Not to violate any provision of these Terms;
-
-b.  To supply true registration data, in conformity with the local legislation
-
-c.  Not to make available untrue information (e.g., purposeful and voluntary disclosure of information that User knows is untrue or notoriously untrue) and/or practice criminal misrepresentation;
-
-d.  Not to practice any act against good faith and uses and costumes of the virtual communities, which may offend any third parties’ right;
-
-e.  Not to commit fraud;
-
-f.  Not to violate or infringe third parties’ rights, in particular intellectual property rights, contractual rights and intimacy & privacy rights;
-
-g.  Not to propagate, distribute or transmit destructive codes, whether or not they have caused real damages;
-
-h.  Not to collect Personal Data or commercial data, including, but not limited to, e-mail addresses and/or names of any Internet resource, for commercial, political, charitable or other purposes, without the consent of the owners of such data or other legal grounds or basis authorizing such collection;
-
-i.  Not to reproduce, replicate, copy, alter, monitor, modify, create derivative works from, sell or resell any APP and/or Service or part thereof, which are not in the public domain;
-
-j.  Not to carry out or encourage illegal activities, including, but not limited to, promoting or facilitating the access, use or sale of dangerous substances or devices;
-
-k.  Comply with all applicable laws, norms, rules, principles and regulations;
-
-l.  Use the APP solely for the purpose expressly provided in these Terms.
-
-### 7. APP AVAILABILITY
-
-7.1. User acknowledges that VTEX App Store will make available APPs developed by VTEX (“VTEX Application”) and APPs developed by third parties (“Third Party’s Application”).
-
-7.2. VTEX acts as an agent for Application Providers in the supply of VTEX App Store and is not a party to the sales agreement or user agreement between User and Applications Provider.
-
-7.3. Any Application installed by User is governed by the APP Terms of Use. The Application Provider of any Third Party’s Application is solely responsible for its content, guarantees and claims User may have in connection with the Third Party’s Application.
-
-### 8. VTEX LIABILITY LIMITATION
-
-8.1. Without prejudice of the provisions of the Master Services Agreement, VTEX shall be expressly exempted from any liability for any damages incurred by User or by third parties, which, by any means, result from or are related to the use of any APP and Services made available therein, including, without limitation, direct, indirect, moral, punitive and consequential damages, loss of profits, loss of opportunities and loss of data, regardless of any notice.
-
-8.2. By way of example only, VTEX shall not be liable for:
-
-8.2.1. Errors and/or interruptions in the use of the APP and its Services, as well as the correct functioning of its modules and integrations.
-
-8.2.2. Assuring that the APP or VTEX Platform will function free of losses, errors, defects, attacks, viruses, Trojans, malwares, worm, bot, backdoors, spywares, rootkit, interferences, hacker activities or security holes, and User expressly waives any right they may have in this regard.
-
-8.2.3. Situations of “acts of God” or “force majeure” as contemplated by article 393 of the Brazilian Civil Code.
-
-8.2.4. Violations of data and information resulting from (i) acts of employees, representatives or persons authorized by User to operate the APP or VTEX Platform, or (ii) criminal or irregular actions by third parties that cannot be avoided because they are outside the limits of technical predictability when they occur.
-
-8.2.5. User’s inability to enjoy the Services, when the reason arises from (i) termination or cancellation of the Paid Subscription of the APPs; (ii) discontinuation, by VTEX, of the offer of a specific APP on VTEX Platform; (iii) demands of services which VTEX is not required to provide.
-
-8.2.6. Any investments, expenses or commitments undertaken by User in connection with these Terms or with the use by User of the APPs and Services available therein;
-
-8.2.7. Damages relative to any unauthorized access to the APPS or VTEX Platform, as well as the modification, exclusion, destruction, damage, loss or failure in the storage of any content or data of User.
-
-8.3. User expressly agrees to be the only party responsible for any damages and risks caused by the installed APP and the use thereof.
-
-8.4. User agrees that they are contracting the application and their services in their as-is state, being aware that there are not guarantees regarding the supply and provision of these services before VTEX.
-
-8.5. Should VTEX be held liable for issues relative to the subject-matter of these Terms, under no circumstance shall it bear damages in excess of ten thousand reais (R$ 10,000.00).
-
-### 9. CONFIDENTIALITY
-
-9.1. Upon the acceptance of these Terms, User shall have access to information on the APP in its functional, operational, strategic, conceptual, visual and innovating respects (“Confidential Information”).
-
-9.2. User undertakes to avoid the disclosure, publication, replication or sharing of data, screens, codes, logics and confidential resources of the APP, as well as not to copy and reproduce under any form or store the Confidential Information, under any form.
-
-9.2.1. Every Confidential Information supplied to User and respective employees or collaborators, either in writing (including electronic records) or verbally, shall be treated under the strictest confidentiality.
-
-9.3. User undertakes to maintain the Confidential Information in secrecy, applying the same level of care and discretion to avoid the disclosure, publication or dissemination of such Confidential Information to any third party than that applied to their own similar information which they do not wish to be disclosed, published or disseminated.
-
-9.4. Should User become legally required to disclose any of the Confidential Information, they shall promptly notify on such obligation. Moreover, User shall solely disclose the portion of the Confidential Information regarding which they were legally requested, as well as endeavor its best efforts to use all procedures required to ensure that the Confidential Information thus disclosed remain in secrecy.
-
-9.4.1. The obligations above shall not be applicable to any Confidential Information that, (1) previously to its receipt by User has become public or reached User by a third source, or (2) after the receipt by User, has become public by any means other than as a consequence of a violation of their obligation as provided herein, or (3) has been legally acquired by User without a secrecy obligation by a third party which would not be under the obligation of keeping the secrecy of the Confidential Information, or (4) has been independently developed by User.
-
-### 10. INTELLECTUAL PROPERTY
-
-10.1. The title and the rights of ownership on the APP and Services available therein are and shall remain the title and ownership of Developer and Application Provider, it being authorized the use of the APP and of the Services only by User, pursuant to the APP Terms of Use. User shall not modify or remove any identification of VTEX trademark or commercial name from the places where they appear on the APP or VTEX Platform. Nothing contained herein shall be understood as granting or having granted to User any right on VTEX trademark and its commercial name.
-
-10.2. User shall not contest or assist or cooperate with third parties to contest the trademark or commercial name of VTEX or their registration, nor shall they seek to register any trademark or commercial name that could cause confusion with the trademark or commercial name of VTEX.
-
-10.3. The access supplied to User does not imply any authorization for the reproduction of the copyrights and intellectual property owned by VTEX.
-
-### 11. SUBSCRIPTION CANCELLATION
-
-11.1. The Application Provider may, at its exclusive discretion, without prejudice of other measures, suspend the access by User and remove any and/or all content created by User through the APP, at any time, in the event of violation of these Terms or of the APP Terms of Use, without the right of any fine or indemnification in favor of User.
-
-### 12. GENERAL PROVISIONS
-
-12.1. VTEX reserves the right to discontinue, modify or add APPs resources on VTEX App Store, at any time and at its exclusive discretion.
-
-12.2. VTEX reserves, further, the right, at any time, to modify these Terms. Such modifications shall be made available on VTEX website and shall be automatically incorporated to these Terms.
-
-12.3. In the event of omission of these Terms, the provisions of the Master Services Agreement shall apply.
-
-12.4. The Parties agree that these Terms shall be governed by and construed in accordance with the laws indicated in the Master Services Agreement executed by and between User and VTEX, and all controversies resulting out of these Terms shall be resolved in accordance with the conflict resolution method indicated in the respective Master Services Agreement.
-
-12.5. The waiver in the event of any nonperformance or delay in the performance of any obligations set forth in these Terms shall not constitute novation or affect such rights, which may be exercised at any time, nor shall it imply the amendment of the conditions set forth in these Terms.
+![](Aspose.Words.69c96f3e-168c-4657-a9c7-1be44d47d2f4.012.png) **Limitation of Liability**
+
+1. Nothing in this Agreement shall exclude or limit either party’s liability for (i) death or personal injury caused by negligence, (ii) willful misconduct (iii) fraud or fraudulent misrepresentation, (iv) gross negligence, (v) damages resulting from unauthorized use or disclosure of confidential information, (vi) Stibo Systems’ right to collect unpaid prices hereunder, (vii) any other liability which cannot be excluded or limited by applicable law.  
+1. SUBJECT TO ARTICLE 9.1 ABOVE, THE AGGREGATE LIABILITY OF STIBO SYSTEMS (OR STIBO SYSTEMS’ RESPECTIVE AFFILIATES) OR ANY OTHER PARTY IN CONNECTION WITH THIS AGREEMENT SHALL NOT EXCEED  AN  AMOUNT  OF  DAMAGES  EXCEEDING  THREE  (3)  TIMES  THE  PRICES  PAID  UNDER  THIS AGREEMENT IN THE TWELVE (12) MONTH PERIOD PRECEDING THE DATE OF THE INCIDENT GIVING RISE TO SUCH LIABILITY.  
+1. Neither  party shall be liable to the other or any other party, for any loss or damage that is (i) consequential, indirect, special or punitive; or (ii) for any loss of profits, loss of business, loss of business opportunity, loss of goodwill, loss resulting from work stoppage or loss of revenue or anticipated savings, whether any such loss or damage is direct or indirect.  
+1. The provisions of this Agreement allocate the risks between Stibo Systems and Client. The Service prices reflect this allocation of risk and limitations of liability herein. The aforementioned liability limitations shall include any claims against employees of, subcontractors of, or any other persons authorized by either party.  
+
+![](Aspose.Words.69c96f3e-168c-4657-a9c7-1be44d47d2f4.013.png) **Confidentiality**
+
+1. Confidential Information shall not be used or reproduced in any form except as required to accomplish the intent of this Agreement. With respect to the Confidential Information, each party (a) shall take all reasonable steps to keep all Confidential Information strictly confidential; and (b) shall not disclose any Confidential Information of the other to any person other than individuals whose access is necessary to enable it to exercise its rights and/or perform its obligations hereunder and who are under obligations of confidentiality substantially similar to those set forth herein. As used herein reasonable steps means those steps the receiving party takes to protect its own similar proprietary and confidential information, which shall not be less than a reasonable standard of care. Confidential Information of either party disclosed prior to execution of this Agreement shall be subject to the protections afforded hereunder. If the receiving party is compelled by law or legal process to disclose Confidential Information of the disclosing party, it shall provide the disclosing party with prompt prior notice of such compelled disclosure (to the extent legally permitted) and reasonable assistance, at the disclosing party's expense, if the disclosing party wishes to contest the disclosure.  
+1. The above restrictions on the use or disclosure of the Confidential Information shall not apply to any Confidential Information that: (a) is independently developed by the receiving party without reference to the disclosing party’s Confidential Information, or is lawfully received free of restriction from a third party having the right to furnish such Confidential Information; (b) has become generally available to the public without breach of this Agreement by the receiving party; (c) at the time of disclosure, was known to the receiving party free of restriction; or (d) the disclosing party agrees in writing is free of such restrictions.  
+1. Client shall not disclose the terms and conditions of this Agreement or the pricing contained herein to any third party. Neither party shall use the name of the other party in publicity, advertising, or similar activity, without the prior written consent of the other, except that Client agrees that Stibo Systems may use Client's name in customer listings. Stibo Systems will make reasonable efforts to avoid having the reference activities unreasonably interfere with Client’s business. 
+
+![](Aspose.Words.69c96f3e-168c-4657-a9c7-1be44d47d2f4.014.png) **Miscellaneous**
+
+1. Should there be a conflict between the General Terms and Conditions and an Order Form the Order Form shall take precedence. No general terms and conditions contained in a purchase order, order acknowledgement or similar shall be valid.  
+1. It is the intent of the parties that in case any one or more of the provisions contained in this Agreement shall be held to be invalid or unenforceable in any respect, such invalidity or unenforceability shall not affect the other provisions of this Agreement, and this Agreement shall be construed as if such invalid or unenforceable provision had never been contained herein.  
+1. If either party should waive any breach of any provision of this Agreement, it shall not thereby be deemed to have waived any preceding or succeeding breach of the same or any other provision hereof.  
+1. The Order Form may be signed in two counterparts, each of which shall be deemed an original and which shall together constitute one Order Form. Signatures sent by electronic means (facsimile or scanned and sent via e-mail, or signed by electronic signature service where legally permitted) shall be deemed original signatures.  
+1. The Service, Documentation and other Stibo Systems materials are subject to the export control laws of various countries, including without limitation the laws of the United States and EU. Client agrees that it will not submit the Service, Documentation or other Stibo Systems materials to any government agency for licensing consideration or other regulatory approval without the prior written consent of  Stibo Systems, and will not export the Service, Documentation and Stibo Systems materials to countries, persons or entities prohibited by such laws.  
+1. This Agreement is governed by the laws of the country in which the Stibo Systems entity signing the Order Form is located, without regard to its conflicts of law rules. The parties expressly exclude the applicability of the United Nations Convention on Contracts for the International Sale of Goods. The parties submit to the jurisdiction of the ordinary courts in the same country. 
+1. All notices pursuant to this Agreement shall be in writing and shall be deemed duly given when delivered (certified or registered mail or by an overnight courier services with delivery receipt) to the respective offices of Stibo Systems or Client. Where in this article or elsewhere in this Agreement, a written form is required, except for notification of any notice of termination or notice of a material breach, that requirement can be met by facsimile transmission, exchange of letters or other written form, including email.  
+1. Except  for  Client’s  payment  obligations,  or  either  Party’s  confidentiality  or  nonuse  obligations,  any  delay  or nonperformance of any provision of this Agreement caused by conditions beyond the reasonable control of the performing party shall not constitute a breach of this Agreement, and the time for performance of such provision, if any, shall be deemed to be extended for a period equal to the duration of the conditions preventing performance.  
+9. Client may not, without Stibo Systems’ prior written consent, assign, delegate, pledge or otherwise transfer this Agreement, or any of its rights or obligations under this Agreement, or any Stibo Systems materials or Stibo Systems Confidential Information, to any party. Neither a change of control nor an internal reorganization with respect to Client shall be deemed an assignment for purposes of this Agreement. Stibo Systems may assign this Agreement to any of its Affiliates upon written notice to Client. Stibo Systems may in its sole discretion sub-contract parts of the Service to  third-parties,  provided that  Stibo  Systems shall be  responsible  for  the acts and/or omissions  of such sub- contractors. Upon request Stibo Systems will disclose who such sub-contractors are. 
+9. Nothing contained herein shall be construed as creating any agency, partnership, or other form of joint enterprise between the parties. The relationship between the parties shall at all times be that of independent contractors. Neither of the parties shall be an agent or employee of the other Party. 
+
+Stibo Systems Legal Dept.  Oct 2021 ![](Aspose.Words.69c96f3e-168c-4657-a9c7-1be44d47d2f4.015.png)
+Stibo Systems, proprietary information                                                                                                                       Page 7** of 7** 
