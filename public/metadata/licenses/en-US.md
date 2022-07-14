@@ -1,4 +1,7 @@
-﻿
+﻿**Terms and conditions of SaaS**
+
+**STEP**
+
 **1. Definitions**  
 
 **“Affiliate”** of a party means any legal entity in which a party, directly or indirectly, holds more than fifty percent (50%) of the shares or voting rights or controls or is under common control with that legal entity.  
