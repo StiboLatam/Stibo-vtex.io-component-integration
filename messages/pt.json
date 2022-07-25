@@ -1,6 +1,6 @@
 {
-  "admin-stibo-integration.navigation.label": "Integração com Stibo",
-  "admin-stibo-integration.navigation.search.kws": "integração, stibo",
+  "admin/stibo-integration.navigation.label": "Integração com Stibo",
+  "admin/stibo-integration.navigation.search.kws": "integração, stibo",
   "admin/stibo-integration.text-1":"Esta integração permite conectar STIBO SYSTEMS (STEP) a uma instância de VTEX para o dominio PMDM (Product Master Data Management) ou PIM (Product Information Management). Com esta integração STEP será capaz de governar e sincronizar a Classificação Web, as Marcas, Imagens do Produto e ou Catálogo de Produtos com VTEX.",
   "admin/stibo-integration.text-2":"ARQUITETURA DE REFERÊNCIA",
   "admin/stibo-integration.text-3":"O diagrama a seguir mostra os componentes necessários para levar a cabo a sincronização de informação (Classificação Web, Marcas, Imagens e Produtos):",
